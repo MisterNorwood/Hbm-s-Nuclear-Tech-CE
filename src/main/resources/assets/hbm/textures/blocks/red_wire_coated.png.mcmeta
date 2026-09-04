@@ -3,7 +3,7 @@
         "ctm_version": 1,
         "type":"CTM",
         "textures":[
-            "hbm:blocks/red_wire_coated_ctm"
+            "hbm:blocks/red_wire_coated-ctm"
         ]
     }
 }

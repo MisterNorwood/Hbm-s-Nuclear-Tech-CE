@@ -1,0 +1,9 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "CTM",
+		"textures": [
+			"hbm:blocks/struct_scaffold_ctm"
+		]
+	}
+}

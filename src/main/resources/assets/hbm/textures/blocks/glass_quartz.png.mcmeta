@@ -3,7 +3,7 @@
 		"ctm_version": 1,
 		"type": "CTM",
 		"textures": [
-			"hbm:blocks/glass_quartz_ctm"
+			"hbm:blocks/glass_quartz-ctm"
 		]
 	}
 }

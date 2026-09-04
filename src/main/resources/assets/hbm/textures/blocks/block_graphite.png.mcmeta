@@ -1,0 +1,9 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "pillar",
+		"textures": [
+			"hbm:blocks/block_graphite-ctmv"
+		]
+	}
+}

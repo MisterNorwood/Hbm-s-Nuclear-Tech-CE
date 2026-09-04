@@ -1,9 +1,9 @@
 {
-	"ctm": {
-		"ctm_version": 1,
-		"type": "CTM",
-		"textures": [
-			"hbm:blocks/block_steel_ctm"
-		]
-	}
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "hbm:blocks/block_steel-ctm"
+        ]
+    }
 }

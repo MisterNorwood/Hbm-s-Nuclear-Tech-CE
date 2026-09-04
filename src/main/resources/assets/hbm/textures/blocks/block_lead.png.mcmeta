@@ -3,7 +3,7 @@
 		"ctm_version": 1,
 		"type": "CTM",
 		"textures": [
-			"hbm:blocks/block_lead_ctm"
+			"hbm:blocks/block_lead-ctm"
 		]
 	}
 }

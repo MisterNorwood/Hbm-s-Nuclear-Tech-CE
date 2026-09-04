@@ -1,6 +1,8 @@
 {
-	"parent": "block/cube_all",
+	"parent": "block/cube_bottom_top",
 	"textures": {
-		"all": "hbm:blocks/drill_pipe"
+		"top": "hbm:blocks/block_graphite_drilled",
+		"bottom": "hbm:blocks/block_graphite_drilled",
+		"side": "hbm:blocks/drill_pipe"
 	}
 }

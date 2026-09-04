@@ -1,0 +1,9 @@
+{
+    "ctm":{
+        "ctm_version": 1,
+        "type":"CTM",
+        "textures":[
+            "hbm:blocks/cm_block_desh_ctm"
+        ]
+    }
+}

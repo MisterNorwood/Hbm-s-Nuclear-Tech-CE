@@ -3,7 +3,7 @@
 		"ctm_version": 1,
 		"type": "CTM",
 		"textures": [
-			"hbm:blocks/deco_tungsten_ctm"
+			"hbm:blocks/deco_tungsten-ctm"
 		]
 	}
 }
